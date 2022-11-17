@@ -1,6 +1,6 @@
 {
   "name": "baseui",
-  "version": "12.2.0",
+  "version": "12.2.1",
   "description": "A React Component library implementing the Base design language",
   "keywords": [
     "react",
@@ -12,7 +12,7 @@
   "types": "index.d.ts",
   "sideEffects": false,
   "module": "./esm/index.js",
-  "repository": "uber/baseweb",
+  "repository": "chrszlz/baseweb",
   "scripts": {
     "lint:code": "eslint ./ --cache",
     "lint:markdown": "markdownlint -c ./.markdownlint.json proposals",
